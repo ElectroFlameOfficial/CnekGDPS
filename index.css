@@ -1,12 +1,12 @@
 body {
     margin: 0;
     font-family: sans-serif;
-    background-color: #c691ff;
+    background-color: #ebe5e5;
   }
   
   .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: #c691ff;
   }
   
   .topnav a {
